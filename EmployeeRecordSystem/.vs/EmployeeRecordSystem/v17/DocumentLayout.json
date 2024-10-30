@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Q2-Test\\EmployeeRecordSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{803EBF27-3E6D-4331-A0DA-23487B84239B}|EmployeeRecordSystem\\EmployeeRecordSystem.csproj|e:\\q2-test\\employeerecordsystem\\employeerecordsystem\\memorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803EBF27-3E6D-4331-A0DA-23487B84239B}|EmployeeRecordSystem\\EmployeeRecordSystem.csproj|solutionrelative:employeerecordsystem\\memorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803EBF27-3E6D-4331-A0DA-23487B84239B}|EmployeeRecordSystem\\EmployeeRecordSystem.csproj|e:\\q2-test\\employeerecordsystem\\employeerecordsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803EBF27-3E6D-4331-A0DA-23487B84239B}|EmployeeRecordSystem\\EmployeeRecordSystem.csproj|solutionrelative:employeerecordsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803EBF27-3E6D-4331-A0DA-23487B84239B}|EmployeeRecordSystem\\EmployeeRecordSystem.csproj|e:\\q2-test\\employeerecordsystem\\employeerecordsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{803EBF27-3E6D-4331-A0DA-23487B84239B}|EmployeeRecordSystem\\EmployeeRecordSystem.csproj|solutionrelative:employeerecordsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803EBF27-3E6D-4331-A0DA-23487B84239B}|EmployeeRecordSystem\\EmployeeRecordSystem.csproj|e:\\q2-test\\employeerecordsystem\\employeerecordsystem\\imemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803EBF27-3E6D-4331-A0DA-23487B84239B}|EmployeeRecordSystem\\EmployeeRecordSystem.csproj|solutionrelative:employeerecordsystem\\imemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemoryDB.cs",
+              "DocumentMoniker": "E:\\Q2-Test\\EmployeeRecordSystem\\EmployeeRecordSystem\\MemoryDB.cs",
+              "RelativeDocumentMoniker": "EmployeeRecordSystem\\MemoryDB.cs",
+              "ToolTip": "E:\\Q2-Test\\EmployeeRecordSystem\\EmployeeRecordSystem\\MemoryDB.cs",
+              "RelativeToolTip": "EmployeeRecordSystem\\MemoryDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:05:48.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Q2-Test\\EmployeeRecordSystem\\EmployeeRecordSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeRecordSystem\\appsettings.json",
+              "ToolTip": "E:\\Q2-Test\\EmployeeRecordSystem\\EmployeeRecordSystem\\appsettings.json",
+              "RelativeToolTip": "EmployeeRecordSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T05:24:49.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMemoryDB.cs",
+              "DocumentMoniker": "E:\\Q2-Test\\EmployeeRecordSystem\\EmployeeRecordSystem\\IMemoryDB.cs",
+              "RelativeDocumentMoniker": "EmployeeRecordSystem\\IMemoryDB.cs",
+              "ToolTip": "E:\\Q2-Test\\EmployeeRecordSystem\\EmployeeRecordSystem\\IMemoryDB.cs",
+              "RelativeToolTip": "EmployeeRecordSystem\\IMemoryDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:20:14.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Q2-Test\\EmployeeRecordSystem\\EmployeeRecordSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeRecordSystem\\Program.cs",
+              "ToolTip": "E:\\Q2-Test\\EmployeeRecordSystem\\EmployeeRecordSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeRecordSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:19:21.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
